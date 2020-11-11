@@ -1,0 +1,11 @@
+.App {
+  margin-left: 100px;
+}
+
+.color-list {
+  margin-top: 3rem;
+
+  > li {
+    text-transform: uppercase;
+  }
+}
